@@ -8,5 +8,6 @@ h4 {
   color: black;
   text-align: center;
   font-family: Consolas,monaco,monospace;
-  padding: 300px;
+  padding-left: 300px;
+  padding-right: 300px;  
 }

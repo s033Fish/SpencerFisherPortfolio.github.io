@@ -16,6 +16,10 @@ caption {
   font-family: Consolas,monaco,monospace;
 }
 
+td {
+    vertical-align: top;
+}
+
 .container {
   position: relative;
   width: 100%;

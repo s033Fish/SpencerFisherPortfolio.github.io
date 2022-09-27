@@ -26,9 +26,6 @@ td {
   width: 100%;
 }
 
-.text {
-  font-family: Consolas,monaco,monospace;
-}
 
 .overlay {
   position: absolute;
@@ -57,4 +54,5 @@ td {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+  font-family: Consolas,monaco,monospace;
 }

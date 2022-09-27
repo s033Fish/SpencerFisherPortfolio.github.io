@@ -26,6 +26,10 @@ td {
   width: 100%;
 }
 
+.text {
+  font-family: Consolas,monaco,monospace;
+}
+
 .overlay {
   position: absolute;
   top: 0;
